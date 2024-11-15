@@ -58,4 +58,6 @@ Below is the list of problems I have solved:
 46. Problem #46: [Print Letters from A to Z]
 47. Problem #47: [Loan Installment Months]
 48. Problem #48: [Monthly Loan Installment]
-49. Probl
+48. Problem #49: [ATM PIN ]
+48. Problem #50: [ATM PIN 3 Times]
+
